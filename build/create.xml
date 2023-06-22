@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DBUSER>
+    <User name="kitty" age="18">
+        <Email>1431244343@qq.com</Email>
+    </User>
+    <Work salary="9999" location="南山区"/>
+</DBUSER>
